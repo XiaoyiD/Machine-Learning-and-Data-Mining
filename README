@@ -1,0 +1,3 @@
+csc2515 Assignment3
+
+Use three different algorithm to classify post to correct newsgroup(Text mining) and train SVM with SGD (with Momentum).
