@@ -1,3 +1,6 @@
-csc2515 Assignment3
-
+`csc2515 Assignment1`
+Use dataset from sklearn to practice mini-batch SGD and an optimal variant version for linear regression which is a hybrid algorithm with KNN
+`csc2515 Assignment2`
+Use Handwritten Digit to practice KNN classification, Conditional Caussian Classification and Naive Bayes Classification.
+`csc2515 Assignment3`
 Use three different algorithm to classify post to correct newsgroup(Text mining) and Train SVM with SGD (with Momentum) on 4-vs-9 digits on MNIST.
